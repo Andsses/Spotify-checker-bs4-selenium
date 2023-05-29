@@ -1,20 +1,20 @@
-Este proyecto lo que hace es usar el archivo 'Spotify.txt' donde guardamos nuestro conjunto de correos y contraseñas ejecuntado el "chromedriver.exe" como navegador en modo ventana.
+What this project does is use the file 'Spotify.txt' where we save our set of emails and passwords, running the "chromedriver.exe" as a browser in window mode.
 
-Lo que hace el bot es conectarse a la plataforma y verificar si las credenciales que les suministramos son correctas.
+What the bot does is connect to the platform and verify if the credentials we provide are correct.
 
-Y almacena las credenciaciales incorrectas en un archivo llamado "BAD.txt", y las credenciales correctas en un archivo
-llamado "DONE.txt".
+And it stores the bad credentials in a file called "BAD.txt", and the correct credentials in a file
+called "DONE.txt".
 
-Este bot esta hecho con fines educativos y es una version actualizada de un proyecto ya publicado en Github.
+This bot is made for educational purposes and is an updated version of a project already published on Github.
 
-Proyecto Original y creditos:
+Original project and credits:
 
 https://github.com/0xMH/Spotify-account-checker
 
 
-Para iniciar el Checker necesitamos ejecutar el "start.bat" el cual esta personalizado para ejecutar automaticamente el checker en python.
+To start the Checker we need to run the "start.bat" which is customized to automatically run the checker in python.
 
-Si este archivo no funciona, se recomienda modificar el "start.bat" con un editor de texto y añadir la ruta donde se encuentra el archivo "Spotify-checker-bs4-selenium.py"
+If this file does not work, it is recommended to modify the "start.bat" with a text editor and add the path where the "Spotify-checker-bs4-selenium.py" file is located.
 
 
-Dev: Andsses
+Dev: @x0andy
